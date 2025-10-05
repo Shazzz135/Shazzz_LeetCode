@@ -21,3 +21,7 @@ class Solution(object):
                 if i != j and nums[i] + nums[j] == target:
                     return [i, j]
                     break
+```
+Input: [2, 7, 11, 15]
+Target: 9
+Output: [0, 1]
