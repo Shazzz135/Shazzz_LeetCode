@@ -1,7 +1,7 @@
 # 🧠 LeetCode Solutions Repository
 
 Welcome to my **LeetCode Solutions** repository!  
-This repo is dedicated to storing, organizing, and showcasing my solutions to various **LeetCode coding problems**, written primarily in **Python**.
+This repo is dedicated to storing, organizing, and showcasing my solutions to various **LeetCode coding problems**.
 
 Each file contains:
 - ✅ Problem Number and Title  
