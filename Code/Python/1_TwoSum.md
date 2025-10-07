@@ -22,6 +22,8 @@ class Solution(object):
                     return [i, j]
                     break
 ```
+## Example
+
 Input: [2, 7, 11, 15]
 
 Target: 9
