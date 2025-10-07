@@ -26,6 +26,8 @@ function isPalindrome(x: number): boolean {
     
 };
 ```
+## Example
+
 Input = 121
 
 Output = True
